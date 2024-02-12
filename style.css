@@ -1,0 +1,58 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Times New Roman;
+   background-image: url("istockphoto-1337668467-612x612.jpg");
+   background-size:cover;
+   background-position:center;
+}
+header {
+  background-size: cover;
+  background-position: center;
+  color: #FFC0CB;
+  padding: 50px 0;
+  text-align: center;
+}
+header h1 {
+  margin: 0;
+  font-size: 36px;
+  font-family:Times New Roman;
+}
+header p {
+  font-size: 18px;
+}
+section {
+  padding: 50px 0;
+  text-align: center;
+  color:#fff;
+}
+section h2 {
+  text-align: center;
+   padding: 0;
+  text-align:center;
+  color:#fff;
+}
+section p {
+  text-align: center;
+}
+.portfolio-items {
+   
+   font-family: Times New Roman;
+   color:#fff;
+}
+.portfolio-item { 
+  color:#fff;
+  
+}
+footer {
+  background-image:url('istockphoto-1337668467-612x612.jpg');
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
